@@ -1,4 +1,4 @@
-package com.example.peakperformer.ui.theme
+package com.example.peakperformer.common.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

@@ -1,4 +1,4 @@
-package com.example.peakperformer.ui.theme
+package com.example.peakperformer.common.theme
 
 import android.app.Activity
 import android.os.Build

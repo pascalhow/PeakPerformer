@@ -1,4 +1,4 @@
-package com.example.peakperformer.ui.theme
+package com.example.peakperformer.common.theme
 
 import androidx.compose.ui.graphics.Color
 
