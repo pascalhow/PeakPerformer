@@ -61,7 +61,6 @@ dependencies {
     implementation(libs.androidx.material3)
 
     implementation(libs.retrofit)
-    implementation(libs.converter.gson)
     implementation(libs.moshi.kotlin)
     implementation(libs.converter.moshi)
 
@@ -70,6 +69,7 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
     androidTestImplementation(platform(libs.androidx.compose.bom))
     androidTestImplementation(libs.androidx.ui.test.junit4)
+    annotationProcessor(libs.moshi.kotlin.codegen)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
 }

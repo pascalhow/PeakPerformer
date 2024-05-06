@@ -25,5 +25,4 @@ data class Athlete(
     val profile: String,
     val friend: Any?,
     val follower: Any?
-) {
-}
+)
